@@ -1,0 +1,8 @@
+difficult
+slow
+poor
+unsafe
+expensive
+overpriced
+hard
+high capacity
